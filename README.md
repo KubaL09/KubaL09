@@ -1,34 +1,37 @@
-# Hi there! 👋 I'm Kuba (KubaL09)
+# Hi there, I'm Kuba! 👋
 
-I'm a developer focusing mainly on web technologies. I enjoy working on team and school projects, turning ideas into working code. 
+I'm a TypeScript & Python developer focused on modern web applications and automated software testing. Winner of **Techni Codecamp 2025** and a multi-time hackathon laureate. Currently looking for an internship opportunity (QA Automation / Junior Developer) where I can contribute to real-world products and learn from an experienced team.
 
-### 🛠️ My Tech Stack
-Currently, I work mostly with:
+---
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-### 🚀 Main Projects & Collaborations
+### 🛠️ Tech Stack & Tools
 
-I'm involved in creating various applications and tools, including:
-* **[Samson_Wiki](https://github.com/JakubMazurek08/Samson_Wiki)**  &  **[gradesync](https://github.com/JakubMazurek08/gradesync)** – A team school project (PAI) developed in TypeScript.
-* **[IntervYou](https://github.com/JakubMazurek08/IntervYou)** – Winning project of Techni CodeCamp 2025 Hackathon
-* **[doppler](https://github.com/doppler-pai/doppler)** – Another PAI-related project I actively contribute to.
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Frontend & Web:** React, Next.js, HTML5/CSS3, Tailwind CSS
+- **Testing & QA:** Playwright (E2E), Vitest, Postman
+- **Tools & Workflow:** Git, GitHub Actions, Linux
 
-### 📈 GitHub Stats
+---
 
-Here's a summary of my activity. I also hold the **Pull Shark** badge, which shows my experience with version control and Pull Requests!
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KubaL09&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubaL09&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+- **[IntervYou](https://github.com/JakubMazurek08/IntervYou)** — *Winner of Techni Codecamp 2025*  
+  AI-powered interview preparation platform.  
+  *Role:* Frontend development (landing page, interactive flashcard system, responsive UI & UX).
 
-### 📫 Let's Connect
+- **[krsLublin](https://github.com/KubaL09/krsLublin)**  
+  Solo project analyzing and scoring local business reputations using KRS registry data and event classification powered by OpenAI.
 
-Feel free to reach out if you have any questions or just want to connect:
+- **[doppler](https://github.com/doppler-pai/doppler)**  
+  Collaborative web application for learning and flashcard sets.  
+  *Contributions:* Explore sets view, search engine, landing page components.
+
+- **[gradesync](https://github.com/JakubMazurek08/gradesync)**  
+  School grading and synchronization tool built in TypeScript. Focused on data handling and clean component architecture.
+
+---
+
+### 📫 Get in Touch
 
 - 💼 **LinkedIn:** [Jakub Leśniak](https://www.linkedin.com/in/jakub-le%C5%9Bniak-b29479369)
 - 📧 **Email:** [kubuleski52@gmail.com](mailto:kubuleski52@gmail.com)
-
----
-⭐️ *Check out my repositories below!*
